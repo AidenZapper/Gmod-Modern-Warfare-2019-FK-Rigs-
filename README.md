@@ -14,3 +14,9 @@ you can now reposition it however you like!
 8. After that, compile and boom. To see how the animation works, check HLMV (it's in garrysmod/bin or garrysmod/bin/win64 for the 64-bit branch) and locate the model you've compiled or use the spawnmenu in-game. I hope that this will be sufficient to work for both unofficial modders and experienced modders in the community for long time.Enjoy your use of this and good luck.
 
 I know this is not in-depth and a bit confusing, so hopefully this one will encourage people to enjoy or modding using MW base in Garry's mod. Just to let you know, I won't be able to work on this because gmod is an old game, but I want to focus on my happy life and future job and dreams, so I hope you guys understand what matters that I've been going through tough times and bright times for anyone who used to know me back in the days, and I guess this could make the playerbase more interested.
+
+## Credits:
+* Activision, Infinity Ward, Ben Garnell, Peter Chen, Ben Turner, Mike Velasquez, Jeremy Thurman, Alexandr Khaliman, Ed Fedorei, Nikolay Myhalenko, Aaron Beck, Ranon Sarono, Khoa Le, Mark Grigsby, Troy Irving, Benjamin Turtell - All the assets that were used for the model and guns.
+* Viper - Porting models, animations, sounds and compiling the models.
+* Mushroom Guy - Coding the base.
+* Me - Providing and modifying into an FK rig
