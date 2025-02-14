@@ -1,6 +1,6 @@
 # Gmod-s-Modern-Warfare-2019-FK-Rigs-
 
-This is the rig where everyone could work on custom animation for viewmodel weapons. I setup each blender version where 2.79 could work on 2.80+ and 3.0+ while +4.2 could work on 4.0, 4.1, 4.3 and above so incase if it's compatiblle for you lads. Unfortunately for IK option, It breaks when recompiling the weapon when it's misposition after adding new bones, unless I could sooner have something to do for help with official MW Swep Creator when they create G3A3 on the workshop and afaik they might use IK rig when using original compile of what they did similar to Viper MW Source Files
+This is the rig where everyone can create custom animations for viewmodel weapons. I set up each blender version so that 2.79 would work on 2.80+ and 3.0+, while +4.2 would work on 4.0, 4.1, 4.3, and above, just in case it's compatible for you guys. Unfortunately, the IK option breaks when recompiling the weapon when it's mispositioned after adding new bones, unless I could sooner or one day have something to do for help with official MW Swep Creator when they create G3A3 on the workshop, and afaik they might use IK rig when using original compile of what they did, similar to Viper MW Source Files.
 
 Quick tutorial:
 1. Decompiled any weapons from here[https://steamcommunity.com/workshop/filedetails/?id=2526457139](url)
