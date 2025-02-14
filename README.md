@@ -4,7 +4,7 @@ This is the rig where everyone can create custom animations for viewmodel weapon
 
 Quick tutorial:
 1. Decompiled any weapons from here[https://steamcommunity.com/workshop/filedetails/?id=2526457139](url)
-2. To find any weapons you want, use any program to extract GMA. In particular, I need Renetti to model swap the m4a1 or beretta 92fs to hk416.
+2. To find any weapons you want, use any program to extract GMA. In particular, I need Renetti to model swap the beretta 92fs or M4A1 to HK416.
 3. Rig each weapon bone separately after that, unfortunately I won't go into too much detail in case for new modders. The basic component to rig the main weapon bone is at least tag_pistol_offset for pistols and tag_sling for other weapons.
 4. From the bone constraint tab, choose j_shoulder_l as it highlights the green bone. I've already set it up for you, so hopefully it's simpler. After that, set the inverse and to the magazine bone. Then, the same procedure for j_shoulder_r to use the primary weapon bone (tag_sling or tag_pistol_offset)
 5. You can now animate! Move the gun to the camera/screen. I hit Numpad 0 to see, but I think it's a good idea to check the animation tab to see what version of Blender you're using after importing the saved file. You can look up references about gun handling techniques online.
